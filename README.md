@@ -24,11 +24,13 @@ else:
 ```
 
 ## Output
+```
 if  n = 14
 output = 14 is an Even number.
 
 if n = 7
 output = 7 is an Even number.
+```
 
 ## Result
 Hence the given number is odd or even is verified using Conditional statements.
@@ -66,10 +68,12 @@ print("d is", d)
 ```
 
 ## Output
+```
 a is False
 b is True
 c is 2
 d is 9
+```
 ## Result
 the results of boolean and arithmetic expressions involving `True` and `False` is verified.
 
@@ -91,8 +95,10 @@ print("'a'")
 ```
 
 ## Output
+```
 'T'
 'a'
+```
 
 ## Result
 python code with character literals is done and verified.
@@ -122,11 +128,13 @@ print(x.imag)
 ```
 
 ## Output
+```
 if a =2 and b = 3
 then, result =
 2 + 3j
 2.00
 3.00
+```
 
 ## Result
 Creating a complex number and printing its real and imaginary value is verified.
@@ -150,9 +158,11 @@ print(men_stepped_on_the_moon)
 ```
 
 ## Output
+```
 if men_stepped_on_the_moon = friend , then result = 
 
 friend
+```
 
 
 ## Result
